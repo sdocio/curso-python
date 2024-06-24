@@ -1,5 +1,0 @@
-name: python-course
-channels:
-  - conda-forge
-dependencies:
-  - spacy
